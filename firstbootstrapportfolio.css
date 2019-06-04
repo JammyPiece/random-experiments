@@ -1,0 +1,50 @@
+navbar  {
+	background-color: #1c1554!important;
+	position: fixed;
+}
+
+body {
+	background-color: #1c1554;
+	color: #9893c1;
+}
+
+#front {
+	margin-top: 20%;
+	text-align: center;
+	height: 100vh;
+}
+
+button {
+	margin: 30px;
+}
+
+p {
+	font-size-size: 2em;
+}
+
+
+#portfolio {
+	height: 100vh;
+	text-align: left;
+}
+
+#navbar1 {
+	width: 100%;
+	}
+
+
+#gallery {
+	padding-top: 5vh}
+
+ form {
+    padding: 20px;
+  }
+  
+  .labels {
+    margin: 10px;
+  }
+  
+  #contact {
+  	height: 100vh;
+  	margin-top: 200px;
+  }
